@@ -1,5 +1,5 @@
 /*
-Advent of Code 2023 - Day 1
+Advent of Code 2023 - Day 1 - Part 1.
 https://adventofcode.com/2023/day/1
 
 A estratégia utilizada abaixo é percorrer cada linha uma vez,
